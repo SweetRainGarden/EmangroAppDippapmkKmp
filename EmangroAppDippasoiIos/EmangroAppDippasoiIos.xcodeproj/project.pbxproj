@@ -52,7 +52,6 @@
 				4849F889B36CFBF0BBBF9D8D /* Pods-EmangroAppDippasoiIos.debug.xcconfig */,
 				88BF6A037DAB42212535619E /* Pods-EmangroAppDippasoiIos.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -321,6 +320,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"EmangroAppDippasoiIos/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = EmangroAppDippasoiIos/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
@@ -342,6 +342,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"EmangroAppDippasoiIos/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = EmangroAppDippasoiIos/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
