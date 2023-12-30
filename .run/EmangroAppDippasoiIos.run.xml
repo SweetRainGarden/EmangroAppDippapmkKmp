@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="EmangroAppDippasoiIos" type="KmmRunConfiguration" factoryName="iOS Application" CONFIG_VERSION="1" EXEC_TARGET_ID="40A9F0A2-34CA-4D71-AC7E-A51933A6657D" XCODE_PROJECT="$PROJECT_DIR$/EmangroAppDippasoiIos/EmangroAppDippasoiIos.xcworkspace" XCODE_CONFIGURATION="Debug" XCODE_SCHEME="EmangroAppDippasoiIos">
+    <method v="2">
+      <option name="com.jetbrains.kmm.ios.BuildIOSAppTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
