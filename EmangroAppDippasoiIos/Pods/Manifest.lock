@@ -1,0 +1,16 @@
+PODS:
+  - EmangroKmpluginNigulpmkKmp (1.0)
+
+DEPENDENCIES:
+  - EmangroKmpluginNigulpmkKmp (from `../EmangroKmpluginNigulpmkKmp`)
+
+EXTERNAL SOURCES:
+  EmangroKmpluginNigulpmkKmp:
+    :path: "../EmangroKmpluginNigulpmkKmp"
+
+SPEC CHECKSUMS:
+  EmangroKmpluginNigulpmkKmp: 6be6af0824544aa56000761be3f92bacbe0737d3
+
+PODFILE CHECKSUM: 8eed1603a1ddc1fde9c85062165f5fabb8edb6e2
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,5 @@
+target 'EmangroAppDippasoiIos' do
+  use_frameworks!
+  platform :ios, '16.0'
+  pod 'EmangroKmpluginNigulpmkKmp', :path => '../EmangroKmpluginNigulpmkKmp'
+end
