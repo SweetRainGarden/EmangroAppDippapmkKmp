@@ -7,5 +7,17 @@
             "destination": "samsung SM-G965U1",
         },
         
+
+{
+            "type": "xcode-app",
+            "name": "Xcode-app configuration",
+            "buildTarget": {
+                "project": "EmangroAppDippasoiIos",
+                "target": "EmangroAppDippasoiIos",
+            },
+            "configuration": "Debug",
+            "destination": "iPhone 15 | iOS 17.2",
+        },
+
     ]
 }
