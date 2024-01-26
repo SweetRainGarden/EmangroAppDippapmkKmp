@@ -81,6 +81,14 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		67CAC10CAB88530B49E3A65F /* xcschemes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = xcschemes;
+			path = Pods.xcodeproj/xcuserdata/rtang.xcuserdatad/xcschemes;
+			sourceTree = "<group>";
+		};
 		76F8693634278924A9B75A05D7496DAF /* EmangroKmpluginNigulpmkKmp */ = {
 			isa = PBXGroup;
 			children = (
@@ -150,6 +158,7 @@
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				8FE27CE87BFDB42E0CB41C4458D7C395 /* Products */,
 				3B4D71BB209FB1F8F185AF458C466A11 /* Targets Support Files */,
+				67CAC10CAB88530B49E3A65F /* xcschemes */,
 			);
 			sourceTree = "<group>";
 		};
